@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Enter"
-date:   2020-03-22 12:22:55 +0000
+date:   2020-03-23 12:22:55 +0000
 categories: jekyll update
 ---
 
