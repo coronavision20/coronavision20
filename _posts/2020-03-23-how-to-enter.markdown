@@ -14,7 +14,7 @@ Rules:
 
 - by entering your video you consent to its free use and distribution
 - all entries submitted as videos to twitter
-- include the country you would like to represent in the tweet
+- include the country you would like to represent in the tweet as well as the name of your song
 - songs must be **original** (not existing songs)
 - tag your videos with **#coronavision20** AND **#coronavisionentry**
 - max length 2 minutes 20 seconds
