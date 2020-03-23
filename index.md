@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![img/animated_logo.png](img/logo.png)
+![](img/logo_with_world_flag.png)
